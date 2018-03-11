@@ -1,0 +1,13 @@
+final int MARGIN = 50;
+final int SCREENX = 800;
+final int SCREENY = 800;
+final int PLAYERWIDTH = 100;
+final int PLAYERHEIGHT = 100;
+final int BULLETWIDTH = 6;
+final int BULLETHEIGHT = 6;
+final int SHIELDWIDTH = 48;
+final int SHIELDHEIGHT = 8;
+final double POWERUPCHANCE = .01;
+final boolean kanyeTime = true;
+boolean collected = false;
+float bombChance = 0.008;
